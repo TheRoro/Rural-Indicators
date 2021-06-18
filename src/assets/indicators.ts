@@ -1,4 +1,4 @@
-type indicatorSelectType = {
+export type indicatorSelectType = {
     value: string,
     label: string,
     id: number
